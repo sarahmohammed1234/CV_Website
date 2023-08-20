@@ -6,6 +6,7 @@ The project was fun and difficult as we had two weeks to complete. In the projec
 
 
 ## Outputs
+![Uploading OutputPAGES.gif…]()
 
 
 
