@@ -1,3 +1,15 @@
+Summer training project at the Qassim Panorama Company..
+💁‍♀️website project (self-site) by the Laravel10 framework, the project contains HTML CSS - PHP - JavaScript
+
+The project was fun and difficult as we had two weeks to complete. In the project I learned how to use the laravel framework where it was useful to create a website and learned how important it is to respond in web pages and I also learned to use bootstraps where I made it easy to write HTML codes and css format and also we used js node. At the end of the project I learned to create CRUD using controllers in laravel with xampp.
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
