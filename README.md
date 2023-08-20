@@ -10,6 +10,7 @@ The project was fun and difficult as we had two weeks to complete. In the projec
 ![OutputPAGES](https://github.com/sarahmohammed1234/laravel10project/assets/94794262/e445bf38-68ee-4642-b5fd-be3610610160)
 
 
+
 ![OutputCRUD](https://github.com/sarahmohammed1234/laravel10project/assets/94794262/639ccb43-fd01-4311-b725-7b9fd7e592cc)
 
 
