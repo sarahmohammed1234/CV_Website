@@ -7,7 +7,7 @@ The project was fun and difficult as we had two weeks to complete. In the projec
 # Outputs
 
 ## Ouput 1🎬:
-![OutputPAGES](https://github.com/sarahmohammed1234/laravel10project/assets/94794262/e445bf38-68ee-4642-b5fd-be3610610160)
+![IMG_5502](https://github.com/sarahmohammed1234/CV_Website/assets/94794262/c1dc3b87-7659-45ac-a55b-51d81267d268)
 
 
 ## Quput 2🎬:
